@@ -1,6 +1,6 @@
 ## Elite-Corp-clone---Homepage
 
-- simple Home page used: Html, CSS, Js, Bootstrap
+- simple Home page used: Html, CSS, Jquery, Bootstrap
 - app demo link : https://hebamak.github.io/Elite-Corp-clone---Homepage/
 - screen shot
 
